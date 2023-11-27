@@ -8,8 +8,7 @@ function Portfolio() {
   
   return (
     <section id='portfolio'>
-      <h5>My Recent Work</h5>
-      <h2>Portfolio</h2>
+      <h2>My Portfolio</h2>
 
       <div className="portfolio__container">
 

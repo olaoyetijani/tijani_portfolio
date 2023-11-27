@@ -31,7 +31,7 @@ header {
     gap: 0.8rem;
     position: absolute;
     left: 0;
-    bottom: 3rem;
+    bottom: 10rem;
 }
 
 .header__socials::after {
@@ -41,14 +41,14 @@ header {
     background: var(--color-primary);
 }
 
-/* ==================== ME(Image) =============== */
+/* ==================== MERN(Image) =============== */
 
-.me {
-    background: linear-gradient(var(--color-primary), transparent);
-    width: 22rem;
-    height: 30rem;
+.mern {
+    /* background: linear-gradient(var(--color-primary), transparent); */
+    width: 70%;
+    height: 100%;
     position: absolute;
-    left: calc(50% - 11rem);
+    left: calc(40% - 13rem);
     margin-top: 4rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
@@ -61,7 +61,7 @@ header {
 .scroll__down{
     position: absolute;
     right: -2.3rem;
-    bottom: 5rem;
+    bottom: 15rem;
     transform: rotate(90deg);
     font-weight: 300;
     font-size: 0.9rem;
@@ -74,6 +74,13 @@ header {
         height: 68vh;
     }
 
+    .mern { 
+        width: 65%;
+        height: 100%;
+        left: calc(50% - 13rem);
+        margin-top: 1rem;
+    }
+
 }
 
 /* ==================== MEDIA QUERIES (ANDROIDS OR SMALL DEVICE)=============== */
@@ -81,6 +88,13 @@ header {
 @media screen and (max-width: 600px){
     header {
         height: 108vh;
+    }
+
+    .mern { 
+        width: 100%;
+        height: 100%;
+        left: calc(50% - 10rem);
+        margin-top: 3rem;
     }
 
     .header__socials,
