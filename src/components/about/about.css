@@ -69,7 +69,7 @@
 
 @media screen and (max-width: 600px) {
   .about__container {
-    margin-top: -20rem;
+    margin-top: -15rem;
   }
   .about__cards {
     grid-template-columns: 1fr 1fr;
