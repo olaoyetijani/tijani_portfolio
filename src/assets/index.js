@@ -14,3 +14,4 @@ export { default as hoobank } from '../assets/hoobank.png';
 export { default as munch } from '../assets/munch.png';
 export { default as contact } from '../assets/contact.png';
 export { default as mediaApp } from '../assets/media_app.png';
+export { default as carRentals } from '../assets/carRentals.png';
