@@ -21,7 +21,7 @@ export const data = [
     image: carRentals,
     title: "Basic webpage utilizing Next.js and Typescript",
     github: "https://github.com/olaoyetijani/car_rentals",
-    demo: "https://vercel.com/olaoyetijani/car-rentals",
+    demo: "https://car-rentals-seven.vercel.app/",
   },
   {
     id: 2,
