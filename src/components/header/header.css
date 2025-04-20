@@ -44,7 +44,6 @@ header {
 /* ==================== MERN(Image) =============== */
 
 .mern {
-<<<<<<< HEAD
     width: 70%;
     height: 100%;
     display: flex;
@@ -56,18 +55,7 @@ header {
 
 .mern img {
     border-radius: 3rem 3rem 0 0;
-
-=======
     /* background: linear-gradient(var(--color-primary), transparent); */
-    width: 70%;
-    height: 100%;
-    position: absolute;
-    left: calc(40% - 13rem);
-    margin-top: 4rem;
-    border-radius: 12rem 12rem 0 0;
-    overflow: hidden;
-    padding: 2.5rem 0.9rem 1.5rem 1rem;
->>>>>>> 0f2d4ca52a1b58f79dedb7af451c9f5a7030d968
 }
 
 
@@ -86,30 +74,19 @@ header {
 
 @media screen and (max-width: 1024px) {
     header {
-<<<<<<< HEAD
         height: 70vh;
-=======
-        height: 68vh;
->>>>>>> 0f2d4ca52a1b58f79dedb7af451c9f5a7030d968
     }
 
     .mern { 
         width: 65%;
-<<<<<<< HEAD
         height: 70%;
         margin: 0 auto;
-=======
-        height: 100%;
-        left: calc(50% - 13rem);
-        margin-top: 1rem;
->>>>>>> 0f2d4ca52a1b58f79dedb7af451c9f5a7030d968
     }
 
 }
 
 /* ==================== MEDIA QUERIES (ANDROIDS OR SMALL DEVICE)=============== */
 
-<<<<<<< HEAD
 @media screen and (max-width: 800px){
     header {
         height: 75vh;
@@ -130,23 +107,12 @@ header {
 @media screen and (max-width: 600px){
     header {
         height: 80vh;
-=======
-@media screen and (max-width: 600px){
-    header {
-        height: 108vh;
->>>>>>> 0f2d4ca52a1b58f79dedb7af451c9f5a7030d968
     }
 
     .mern { 
         width: 100%;
-<<<<<<< HEAD
         height: 50%;
         margin: 0 auto;
-=======
-        height: 100%;
-        left: calc(50% - 10rem);
-        margin-top: 3rem;
->>>>>>> 0f2d4ca52a1b58f79dedb7af451c9f5a7030d968
     }
 
     .header__socials,

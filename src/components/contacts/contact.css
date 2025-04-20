@@ -43,11 +43,8 @@
 form {
   display: flex;
   flex-direction: column;
-<<<<<<< HEAD
   justify-content: center;
   align-items: center;
-=======
->>>>>>> 0f2d4ca52a1b58f79dedb7af451c9f5a7030d968
   gap: 1.2rem;
 }
 

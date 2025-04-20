@@ -14,7 +14,6 @@ export { default as hoobank } from '../assets/hoobank.png';
 export { default as munch } from '../assets/munch.png';
 export { default as contact } from '../assets/contact.png';
 export { default as mediaApp } from '../assets/media_app.png';
-<<<<<<< HEAD
 export { default as carRentals } from '../assets/carRentals.png';
 export { default as software } from '../assets/software.png';
 export { default as tix } from '../assets/tix.jpg';
@@ -26,6 +25,3 @@ export { default as tax } from '../assets/tax.jpg';
 export { default as travelwings } from '../assets/travelwings.jpg';
 export { default as ftth } from '../assets/Ftth.jpg';
 export { default as cowry } from '../assets/cowry.jpg';
-=======
-export { default as carRentals } from '../assets/carRentals.png';
->>>>>>> 0f2d4ca52a1b58f79dedb7af451c9f5a7030d968
