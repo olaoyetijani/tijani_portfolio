@@ -6,7 +6,11 @@
 
 .about__cards {
   display: grid;
+<<<<<<< HEAD
   grid-template-columns: repeat(2, 1fr);
+=======
+  grid-template-columns: repeat(3, 1fr);
+>>>>>>> 0f2d4ca52a1b58f79dedb7af451c9f5a7030d968
   gap: 1.5rem;
 }
 
@@ -43,11 +47,18 @@
 .about__content p {
   margin: 2rem 0 2.6rem;
   color: var(--color-light);
+<<<<<<< HEAD
   justify-content: justify;
 }
 
 .about__container a {
   margin: 0 auto;
+=======
+}
+
+.about__container a {
+  margin-left: 26.5rem;
+>>>>>>> 0f2d4ca52a1b58f79dedb7af451c9f5a7030d968
 }
 
 /* ==================== MEDIA QUERIES (TABLETS OR MEDIUM DEVICE) =============== */
@@ -59,7 +70,10 @@
 
   .about__content p {
     margin: 1rem 0 1.5rem;
+<<<<<<< HEAD
     justify-content: justify;
+=======
+>>>>>>> 0f2d4ca52a1b58f79dedb7af451c9f5a7030d968
   }
 
   .about__container a {
@@ -84,7 +98,10 @@
 
   .about__content p {
     margin: 1.5rem 0;
+<<<<<<< HEAD
     justify-content: justify;
+=======
+>>>>>>> 0f2d4ca52a1b58f79dedb7af451c9f5a7030d968
   }
 
   .about__container a {
