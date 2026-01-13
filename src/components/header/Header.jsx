@@ -1,8 +1,8 @@
-import React from 'react'
-import './header.css'
-import CTA from './CTA'
-import { mern_stack } from '../../assets/index'
-import HeaderSocial from './HeaderSocial'
+import React from "react";
+import "./header.css";
+import CTA from "./CTA";
+import { mern_stack } from "../../assets/index";
+import HeaderSocial from "./HeaderSocial";
 
 function Header() {
   return (
@@ -14,14 +14,16 @@ function Header() {
         <CTA />
         <HeaderSocial />
 
-        <div className='mern'>
-          <img src={mern_stack} alt='me'/>
+        <div className="mern">
+          <img src={mern_stack} alt="me" />
         </div>
 
-        <a href='#contact' className='scroll__down'>Scroll Down</a>
+        {/* <a href="#contact" className="scroll__down">
+          Scroll Down
+        </a> */}
       </div>
     </header>
-  )
+  );
 }
 
-export default Header
+export default Header;

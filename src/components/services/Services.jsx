@@ -17,18 +17,27 @@ function Services() {
             <li>
               <BiCheck className="service__list-icons" />
               <p>
-                I possess a strong command of HTML, CSS, and JavaScript,
-                enabling me to create visually appealing and interactive user
-                interfaces.
+                Developed, optimized, and maintained 40+ front-end applications
+                on the MoMo PSB platform, ensuring performance, scalability, and
+                UI consistency
               </p>
             </li>
 
             <li>
               <BiCheck className="service__list-icons" />
               <p>
-                My expertise includes crafting responsive designs that ensure
-                seamless user experiences across various devices and screen
-                sizes.
+                End-to-end contributor to MTN FibreX applications, delivering
+                front-end experiences, backend services, payment flows, and data
+                persistence for FTTH customers.
+              </p>
+            </li>
+
+            <li>
+              <BiCheck className="service__list-icons" />
+              <p>
+                I Create and implement responsive, interactive, and user-centric
+                products with modern front-end frameworks, ensuring high
+                usability and performance.
               </p>
             </li>
 
@@ -96,6 +105,24 @@ function Services() {
           </div>
 
           <ul className="service__list">
+            <li>
+              <BiCheck className="service__list-icons" />
+              <p>
+                {" "}
+                Stabilized MTN FibreX backend systems, reducing transaction,
+                processing and fulfilment failures from 50% to 5%.{" "}
+              </p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icons" />
+              <p>
+                {" "}
+                Streamlined backend operations for MoMo PSB mini apps, reducing
+                payment and fulfillment failures, clearing order backlogs,
+                implementing cron jobs, and ensuring accurate database
+                reconciliation..{" "}
+              </p>
+            </li>
             <li>
               <BiCheck className="service__list-icons" />
               <p>

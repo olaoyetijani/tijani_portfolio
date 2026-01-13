@@ -1,0 +1,9 @@
+export { default as FTTH } from "../videos/ftth.mp4";
+export { default as CubeCover } from "../videos/CubeCover.mp4";
+export { default as Kwik } from "../videos/kwik.mp4";
+export { default as MrWins } from "../videos/MrWins.mp4";
+export { default as TixAfrica } from "../videos/TixAfrica.mp4";
+export { default as TravelWIngs } from "../videos/travelwings.mp4";
+export { default as Trips } from "../videos/Trips.mp4";
+export { default as All } from "../videos/All.mp4";
+export { default as TaxPayment } from "../videos/TaxPayment.mp4";

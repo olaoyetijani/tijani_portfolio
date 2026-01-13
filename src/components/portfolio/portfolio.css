@@ -12,6 +12,14 @@
   transition: var(--transition);
 }
 
+.portfolio__item-vid {
+  background: var(--color-bg-variant);
+  padding: 1.2rem;
+  height: 70px;
+  border-radius: 2rem;
+  transition: var(--transition);
+}
+
 .portfolio__item:hover {
   border-color: var(--color-primary-variant);
   background: transparent;

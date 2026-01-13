@@ -4,7 +4,7 @@ import { BsPatchCheckFill } from "react-icons/bs";
 
 function Experience() {
   return (
-    <section id="experience">
+    <section>
       <h2>My Skills</h2>
 
       <div className="container experience__container">
@@ -15,7 +15,7 @@ function Experience() {
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
                 <h4>HTML</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Advance</small>
               </div>
             </article>
 
@@ -23,7 +23,7 @@ function Experience() {
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
                 <h4>CSS</h4>
-                <small className="text-light">Intermediate</small>
+                <small className="text-light">Advance</small>
               </div>
             </article>
 
@@ -31,7 +31,7 @@ function Experience() {
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
                 <h4>JavaScript</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Advance</small>
               </div>
             </article>
 
@@ -47,7 +47,7 @@ function Experience() {
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
                 <h4>jQuery</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Advance</small>
               </div>
             </article>
 
@@ -55,7 +55,7 @@ function Experience() {
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
                 <h4>React.js</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Advanced</small>
               </div>
             </article>
 
@@ -63,7 +63,7 @@ function Experience() {
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
                 <h4>Next JS</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Advanced</small>
               </div>
             </article>
 
@@ -87,7 +87,7 @@ function Experience() {
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
                 <h4>React Redux</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Advanced</small>
               </div>
             </article>
 
@@ -109,7 +109,7 @@ function Experience() {
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
                 <h4>Next JS</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Advanced</small>
               </div>
             </article>
 
@@ -141,6 +141,22 @@ function Experience() {
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
                 <h4>MySQL</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icons" />
+              <div>
+                <h4>Postgresql</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icons" />
+              <div>
+                <h4>Apache web server</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
