@@ -33,17 +33,17 @@ function About() {
             </div>
 
             <p>
-              Hey there! 👋 I’m Tijani — a Software Engineer with a deep
+              Hey there! I&#39;m Tijani — a Software Engineer with a deep
               curiosity for tech and a love for building things that actually
               make a difference. I got into software development out of pure
-              fascination, and since then, I’ve been hooked on bringing ideas to
-              life through code. <br />
-              Over time, I’ve grown confident working with a wide range of tools
-              and technologies — including the MERN stack (MongoDB, Express.js,
-              React.js, Next.js, TypeScript, and Node.js), as well as Vue.js,
-              Macle SDK, Mini App development, and Appcube. I’ve built
-              full-fledged web and mobile apps that are scalable, efficient, and
-              user-friendly from start to finish.
+              fascination, and since then, I&#39;ve been hooked on bringing
+              ideas to life through code. <br />
+              Over time, I&#39;ve grown confident working with a wide range of
+              tools and technologies — including the MERN stack (MongoDB,
+              Express.js, React.js, Next.js, TypeScript, and Node.js), as well
+              as Vue.js, Macle SDK, Mini App development, and Appcube. I&#39;ve
+              built full-fledged web and mobile apps that are scalable,
+              efficient, and user-friendly from start to finish.
             </p>
             <p>
               Even though I come from a traditional computer engineering
