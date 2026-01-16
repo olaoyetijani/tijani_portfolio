@@ -156,7 +156,7 @@ export const data = [
     image: Hotelportal,
     title: "Integrated Hotel Management(Admin Portal)",
     github: "https://github.com/olaoyetijani/hotelportal",
-    demo: "https://cabinsbooking.netlify.app/account",
+    demo: "https://cabinsbooking.netlify.app",
   },
   {
     id: 4,
