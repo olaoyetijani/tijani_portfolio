@@ -38,12 +38,6 @@ import {
 } from "../assets/videos";
 
 export const certifications = [
-  // {
-  //   id: 0,
-  //   image: NSE,
-  //   title: "GMNSE, CPE",
-  //   issuer: "The Nigeria Society of Engineers",
-  // },
   {
     id: 0,
     image: Javascript,
@@ -164,7 +158,7 @@ export const data = [
     image: Hotelportal,
     title: "Integrated Hotel Management(Admin Portal)",
     github: "https://github.com/olaoyetijani/hotelportal",
-    demo: "https://cabinsbooking.netlify.app/account",
+    demo: "https://cabinsbooking.netlify.app",
   },
   {
     id: 4,
