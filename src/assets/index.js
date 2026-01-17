@@ -34,3 +34,4 @@ export { default as Javascript } from "../assets/javascript.jpg";
 export { default as ReactCourse } from "../assets/React-course.jpg";
 export { default as AwardFirst } from "../assets/Award_first.jpg";
 export { default as AwardSec } from "../assets/Award_sec.jpg";
+export { default as Database } from "../assets/database.jpg";

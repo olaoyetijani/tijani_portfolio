@@ -23,6 +23,7 @@ import {
   ReactCourse,
   AwardFirst,
   AwardSec,
+  Database,
 } from "../assets";
 import {
   All,
@@ -55,26 +56,33 @@ export const certifications = [
     title: "Node.js, Express.js, MongoDB & More: The Complete BootCamp.",
     issuer: "Udemy",
   },
+
   {
     id: 2,
+    image: Database,
+    title: "Data Modelling & Relational Data Architecture",
+    issuer: "Udemy",
+  },
+  {
+    id: 3,
     image: ReactCourse,
     title: "The Ultimate React Course, React, Redux & More",
     issuer: "Udemy",
   },
   {
-    id: 3,
+    id: 4,
     image: NSE,
     title: "B.Tech, Gmnse, Computer Engineering",
     issuer: "NSE",
   },
   {
-    id: 4,
+    id: 5,
     image: AwardFirst,
     title: "Customer Service Award",
     issuer: "Project Director",
   },
   {
-    id: 5,
+    id: 6,
     image: AwardSec,
     title: "Customer Service Award",
     issuer: "Project Director",
